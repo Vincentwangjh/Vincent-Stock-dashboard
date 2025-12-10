@@ -1,45 +1,21 @@
 {
   "meta": {
     "timezone": "Asia/Shanghai",
-    "lastUpdated": "2025-12-10T08:45:00+08:00",
-    "sourceNote": "Manual seed data. Will be replaced by GitHub Actions later."
+    "lastUpdated": "2025-12-10T09:10:00+08:00",
+    "sourceNote": "Manual update."
   },
   "watchlist": [
     {
       "ticker": "603986",
-      "name": "（可选填公司名）",
-      "tags": ["你自己的标签，比如：主线/波段/重仓"],
-      "summary": "一句话总览（可选）",
-      "news": [
-        {
-          "date": "2025-12-10",
-          "title": "示例：公司公告/行业动态标题",
-          "impact": "positive",
-          "reason": "为什么你认为是利好（1-2 句话）",
-          "source": "公告/媒体名（可选）",
-          "url": ""
-        },
-        {
-          "date": "2025-12-09",
-          "title": "示例：短期利空或不确定消息",
-          "impact": "negative",
-          "reason": "对收入/毛利/估值/情绪的潜在影响",
-          "source": "媒体名（可选）",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "ticker": "688627",
-      "name": "（可选填公司名）",
-      "tags": ["观察"],
+      "name": "",
+      "tags": ["重仓", "观察"],
       "summary": "",
       "news": [
         {
           "date": "2025-12-10",
-          "title": "示例：订单、产能、政策、资金面",
-          "impact": "neutral",
-          "reason": "信息有价值但方向未确认",
+          "title": "今天你看到的最新要点标题",
+          "impact": "positive",
+          "reason": "你判断为利好的原因",
           "source": "",
           "url": ""
         }
@@ -47,3 +23,4 @@
     }
   ]
 }
+
